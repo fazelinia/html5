@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    -webkit-box-pack: center;
+}
+p.first{
+    color: blueviolet;
+    margin: 2px auto;
+    font: bold 30px Century Gothic;
+    -webkit-box-flex: 1;
+}
